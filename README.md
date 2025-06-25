@@ -54,7 +54,7 @@ Learning now...
 ## 🌱 Currently Learning
 
 - Node.js & Express
-- MongoDB
+- Next.js
 - React.js
 - TypeScript
 
@@ -64,8 +64,8 @@ Learning now...
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
   
-📧 Email: your@email.com  
-💬 Telegram: [@yourusername](https://t.me/yourusername)
+📧 Email: e.klimochenkova@gmail.com 
+
 
 ---
 
