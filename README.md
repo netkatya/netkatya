@@ -59,8 +59,6 @@ Learning now...
 
 - Node.js & Express
 - Next.js
-- React.js
-- TypeScript
 
 ---
 
