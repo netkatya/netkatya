@@ -45,13 +45,7 @@ Learning now...
 
 ### 🔸 Team Project – as a Team Lead
 
-**💼 [Team-6 Project](https://github.com/netkatya/team-6-project)**  
-💻 Technologies: HTML, CSS, JavaScript  
-👩‍💼 Role: <strong>Team Lead</strong>  
-✔️ Organized and led the team workflow  
-✔️ Delegated tasks and managed deadlines  
-✔️ Resolved merge conflicts and facilitated communication  
-✔️ Delivered a functional project with collaboration best practices
+https://github.com/netkatya/STP-10194
 
 ---
 
