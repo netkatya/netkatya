@@ -58,7 +58,7 @@ Learning now...
 ## 🌱 Currently Learning
 
 - Node.js & Express
-- Next.js
+
 
 ---
 
