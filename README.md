@@ -47,6 +47,8 @@ Learning now...
 
 https://github.com/netkatya/STP-10194
 
+https://github.com/netkatya/next-blended-team-project
+
 ---
 
 ## 🌱 Currently Learning
