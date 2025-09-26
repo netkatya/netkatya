@@ -33,18 +33,24 @@ Learning now...
 
 ### 🔹 Personal Projects
 
-https://github.com/netkatya/09-auth
+[Note Hub] (https://github.com/netkatya/09-auth)
+Next.js • Rest API
+
+[Online shop] (https://netkatya.github.io/blended-js-11-12/)
+HTML • CSS • JS
 
 ---
 
 ### 🔸 Team Project – as a Team Lead
 
-https://github.com/netkatya/project-js-06
+[Book shop] (https://github.com/netkatya/project-js-06)
+HTML • CSS • JS
 
-https://github.com/netkatya/STP-10194
+[Game web-site] (https://github.com/netkatya/STP-10194)
+HTML • CSS • JS
 
-https://github.com/netkatya/next-blended-team-project
-
+[Currency exchange] (https://github.com/netkatya/next-blended-team-project)
+Next.js • Rest API
 ---
 
 ## 🌱 Currently Learning
