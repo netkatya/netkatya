@@ -39,6 +39,8 @@ https://github.com/netkatya/09-auth
 
 ### 🔸 Team Project – as a Team Lead
 
+https://github.com/netkatya/project-js-06
+
 https://github.com/netkatya/STP-10194
 
 https://github.com/netkatya/next-blended-team-project
