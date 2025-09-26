@@ -32,16 +32,21 @@ Learning now...
 ## 🚀 Projects
 
 💻 Personal Projects
+
 	•	Note Hub – Next.js • REST API
 Developed a full-featured note-taking application with user authentication and CRUD functionality.
+
 	•	Online Shop – HTML • CSS • JavaScript
 Built a responsive e-commerce website with product listings, cart functionality, and interactive UI.
 
 👥 Team Projects (Team Lead)
+
 	•	Book Shop – HTML • CSS • JavaScript
 Led a team to develop a dynamic online bookstore; coordinated tasks, implemented responsive design, and integrated search functionality.
+
 	•	Game Website – HTML • CSS • JavaScript
 Managed team collaboration to create an interactive game platform, focusing on UI/UX and gameplay logic.
+
 	•	Currency Exchange – Next.js • REST API
 Oversaw development of a real-time currency exchange application using REST APIs; optimized frontend-backend integration and ensured smooth data updates.
 
