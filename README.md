@@ -44,7 +44,7 @@ Led a team to develop a dynamic online bookstore; coordinated tasks, implemented
 Managed team collaboration to create an interactive game platform, focusing on UI/UX and gameplay logic.
 	•	Currency Exchange – Next.js • REST API
 Oversaw development of a real-time currency exchange application using REST APIs; optimized frontend-backend integration and ensured smooth data updates.
----
+
 
 ## 🌱 Currently Learning
 
