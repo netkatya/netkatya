@@ -31,19 +31,24 @@ Learning now...
 
 ## 🚀 Projects
 
-💻 Personal Projects
-	•	Note Hub – Next.js • REST API
-Developed a full-featured note-taking application with user authentication and CRUD functionality.
-	•	Online Shop – HTML • CSS • JavaScript
-Built a responsive e-commerce website with product listings, cart functionality, and interactive UI.
+### 💻 Personal Projects
 
-👥 Team Projects (Team Lead)
-	•	Book Shop – HTML • CSS • JavaScript
-Led a team to develop a dynamic online bookstore; coordinated tasks, implemented responsive design, and integrated search functionality.
-	•	Game Website – HTML • CSS • JavaScript
-Managed team collaboration to create an interactive game platform, focusing on UI/UX and gameplay logic.
-	•	Currency Exchange – Next.js • REST API
-Oversaw development of a real-time currency exchange application using REST APIs; optimized frontend-backend integration and ensured smooth data updates.
+- [Note Hub](https://github.com/netkatya/09-auth) – Next.js • REST API  
+  Developed a full-featured note-taking application with user authentication and CRUD functionality.
+
+- [Online Shop](https://netkatya.github.io/blended-js-11-12/) – HTML • CSS • JavaScript  
+  Built a responsive e-commerce website with product listings, cart functionality, and interactive UI.
+
+### 👥 Team Projects (Team Lead)
+
+- [Book Shop](https://github.com/netkatya/project-js-06) – HTML • CSS • JavaScript  
+  Led a team to develop a dynamic online bookstore; coordinated tasks, implemented responsive design, and integrated search functionality.
+
+- [Game Website](https://github.com/netkatya/STP-10194) – HTML • CSS • JavaScript  
+  Managed team collaboration to create an interactive game platform, focusing on UI/UX and gameplay logic.
+
+- [Currency Exchange](https://github.com/netkatya/next-blended-team-project) – Next.js • REST API  
+  Oversaw development of a real-time currency exchange application using REST APIs; optimized frontend-backend integration and ensured smooth data updates.
 
 ## 🌱 Currently Learning
 
