@@ -33,13 +33,7 @@ Learning now...
 
 ### 🔹 Personal Projects
 
-**📌 [Creative Web Page](https://github.com/netkatya/blended-js-11-12)**  
-💻 Technologies: HTML, CSS, JavaScript  
-📋 Description: A dynamic webpage with interactive features and custom styling.
-
-**📌 [Elegant Static Site](https://github.com/netkatya/blended_117-7_8)**  
-💻 Technologies: HTML, CSS, a bit of JS  
-📋 Description: Clean, minimal layout with focus on semantic HTML and layout design.
+https://github.com/netkatya/09-auth
 
 ---
 
