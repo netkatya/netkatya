@@ -44,6 +44,9 @@
 - [Clothica Shop](https://github.com/netkatya/clothica-shop) – Next.js • Node.js • REST API  
   Developed a full-featured e-commerce clothing platform with dynamic catalog, product filtering, form validation, theme switching, and API-driven backend integration. Implemented advanced state management (Zustand, React Query), responsive UI, and rich animations for enhanced user experience.
 
+- [A.R.I. – Learn JavaScript](https://github.com/netkatya/...) – Next.js • TypeScript • Tailwind CSS  
+  Developed an interactive JavaScript learning game featuring quizzes, text-based tasks, and live coding challenges powered by the Monaco Editor. Includes progressive levels, animated UI, saved player progress, and detailed end-of-game statistics to support effective learning.
+
 - [Book Shop](https://github.com/netkatya/project-js-06) – HTML • CSS • JavaScript  
   Led a team to develop a dynamic online bookstore; coordinated tasks, implemented responsive design, and integrated search functionality.
 
