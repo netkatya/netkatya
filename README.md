@@ -41,6 +41,9 @@
 
 ### 👥 Team Projects (Team Lead)
 
+- [Clothica Shop](https://github.com/netkatya/clothica-shop) – Next.js • Node.js • REST API  
+  Developed a full-featured e-commerce clothing platform with dynamic catalog, product filtering, form validation, theme switching, and API-driven backend integration. Implemented advanced state management (Zustand, React Query), responsive UI, and rich animations for enhanced user experience.
+
 - [Book Shop](https://github.com/netkatya/project-js-06) – HTML • CSS • JavaScript  
   Led a team to develop a dynamic online bookstore; coordinated tasks, implemented responsive design, and integrated search functionality.
 
