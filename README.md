@@ -56,10 +56,6 @@
 - [Currency Exchange](https://github.com/netkatya/next-blended-team-project) – Next.js • REST API  
   Oversaw development of a real-time currency exchange application using REST APIs; optimized frontend-backend integration and ensured smooth data updates.
 
-## 🌱 Currently Learning
-
-- Node.js & Express
-
 
 ---
 
