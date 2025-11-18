@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Kateryna Pryhoda 👋</h1>
 
 <p align="center">
-🌱 Aspiring Full Stack Developer<br>
-🎓 Currently studying at <strong>GoIT School</strong><br>
-💡 Passionate about creating user-friendly and responsive web applications
+👩🏻‍💻 Full Stack Developer
 </p>
 
 ---
