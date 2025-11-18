@@ -21,7 +21,7 @@
 **Backend:**  
 ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg =120x30)
 ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg =120x30)
-![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg =120x30)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
