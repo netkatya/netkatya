@@ -59,13 +59,4 @@
 
 ---
 
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/kateryna-pryhoda-28383023a)
-  
-📧 Email: e.klimochenkova@gmail.com 
-
-
----
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=netkatya&show_icons=true&theme=tokyonight)
